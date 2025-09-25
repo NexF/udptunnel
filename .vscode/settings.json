@@ -1,9 +1,0 @@
-{
-    "go.goroot": "/snap/go/current",
-    "go.gopath": "/home/ubuntu/go",
-    "go.toolsGopath": "/home/ubuntu/go",
-    "go.useLanguageServer": true,
-    "go.alternateTools": {
-        "go": "/snap/bin/go"
-    }
-}
